@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Dipartimento di Biologia",
+        "address": "Via Milani 8 Appartamento 02",
+        "phone": "+03 8952 1711580",
+        "email": "biologia@uni.it",
+        "website": "www.biologia.uni.it",
+        "head_of_department": "Gilda Romano"
+    },
+    {
+        "name": "Dipartimento di Fisica e astronomia",
+        "address": "Strada Barbieri 57",
+        "phone": "367 410 378",
+        "email": "fisica-e-astronomia@uni.it",
+        "website": "www.fisica-e-astronomia.uni.it",
+        "head_of_department": "Dott. Deborah De Santis"
+    },
+    {
+        "name": "Dipartimento di Ingegneria civile, edile e ambientale",
+        "address": "Strada Pablo 85 Appartamento 75",
+        "phone": "+54 35 36896630",
+        "email": "ingegneria-civile-edile-e-ambientale@uni.it",
+        "website": "www.ingegneria-civile-edile-e-ambientale.uni.it",
+        "head_of_department": "Olimpia D'amico"
+    },
+    {
+        "name": "Dipartimento di Ingegneria dell'informazione",
+        "address": "Borgo De luca 877 Appartamento 28",
+        "phone": "+39 091 353 730",
+        "email": "ingegneria-dellinformazione@uni.it",
+        "website": "www.ingegneria-dellinformazione.uni.it",
+        "head_of_department": "Ing. Marzio Gatti"
+    },
+    {
+        "name": "Dipartimento di Matematica",
+        "address": "Via Cosetta 5",
+        "phone": "+84 63 00392338",
+        "email": "matematica@uni.it",
+        "website": "www.matematica.uni.it",
+        "head_of_department": "Sig. Alessandro Orlando"
+    },
+    {
+        "name": "Dipartimento di Medicina",
+        "address": "Rotonda Pagano 59",
+        "phone": "+15 8928 3017622",
+        "email": "medicina@uni.it",
+        "website": "www.medicina.uni.it",
+        "head_of_department": "Lisa Farina"
+    },
+    {
+        "name": "Dipartimento di Neuroscienze",
+        "address": "Borgo Ubaldo 181 Appartamento 41",
+        "phone": "+32 6290 01889948",
+        "email": "neuroscienze@uni.it",
+        "website": "www.neuroscienze.uni.it",
+        "head_of_department": "Dante Lombardi"
+    },
+    {
+        "name": "Dipartimento di Scienze chimiche",
+        "address": "Strada Gatti 943 Appartamento 49",
+        "phone": "+94 833 74282438",
+        "email": "scienze-chimiche@uni.it",
+        "website": "www.scienze-chimiche.uni.it",
+        "head_of_department": "Jole Benedetti"
+    },
+    {
+        "name": "Dipartimento di Scienze economiche e aziendali",
+        "address": "Piazza Sibilla 876 Appartamento 03",
+        "phone": "+80 092 00 17 3967",
+        "email": "scienze-economiche-e-aziendali@uni.it",
+        "website": "www.scienze-economiche-e-aziendali.uni.it",
+        "head_of_department": "Selvaggia De Angelis"
+    },
+    {
+        "name": "Dipartimento di Scienze politiche, giuridiche e studi internazionali",
+        "address": "Strada Gelsomina 295",
+        "phone": "+59 862 14592149",
+        "email": "scienze-politiche-giuridiche-e-studi-internazionali@uni.it",
+        "website": "www.scienze-politiche-giuridiche-e-studi-internazionali.uni.it",
+        "head_of_department": "Bernardo Sanna"
+    },
+    {
+        "name": "Dipartimento di Scienze statistiche",
+        "address": "Contrada Valentini 577",
+        "phone": "+39 034 983 279",
+        "email": "scienze-statistiche@uni.it",
+        "website": "www.scienze-statistiche.uni.it",
+        "head_of_department": "Lauro Barone"
+    },
+    {
+        "name": "Dipartimento di Studi linguistici e letterari",
+        "address": "Borgo Ricci 140 Piano 9",
+        "phone": "+50 14 37174267",
+        "email": "studi-linguistici-e-letterari@uni.it",
+        "website": "www.studi-linguistici-e-letterari.uni.it",
+        "head_of_department": "Dott. Ludovico Marino"
+    }
+]
